@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>登陆</title>
+</head>
+<body>
+    <h1>登陆</h1>
+    <p>@ViewData["msg"]</p>
+    <p>@ViewData["msg2"]</p>
+    <p>@ViewData["msg3"]</p>
+    <p>@ViewData["msg4"]</p>
+    <form asp-action="/index" method="post">
+        <input type="text" name="userName" />
+        <input type="password" name="password"  />
+        <button type="submit">登陆</button>
+    </form>
+</body>
+</html>

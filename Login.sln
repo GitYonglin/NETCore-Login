@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{31BDDAD5-2D19-4930-86AD-9B4F0B6A4D8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FA745BB-4865-4040-8B35-419B89B9229E}"
+	ProjectSection(SolutionItems) = preProject
+		node.md = node.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BDDAD5-2D19-4930-86AD-9B4F0B6A4D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BDDAD5-2D19-4930-86AD-9B4F0B6A4D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BDDAD5-2D19-4930-86AD-9B4F0B6A4D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BDDAD5-2D19-4930-86AD-9B4F0B6A4D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
